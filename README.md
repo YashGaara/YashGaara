@@ -10,16 +10,6 @@
     </a>
 </p>
 
-
-
- <a href="https://github.com/OracleBrain">
-    <img src="contributions.svg" />
-  </a>
-
- <a href="https://github.com/OracleBrain">
-<img src="/OracleBrain/OracleBrain/raw/main/contributions.svg" style="max-width: 100%;">
-</a>
-
 <br/>
 
 
