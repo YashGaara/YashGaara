@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=B.voc IT Student%20;%20DEVELOPER;daily_to_lern insta_id%20;EXPERIENCED%20 Forntant-end devlopent;3%ALWAYS%20LEARNING%20&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=B.voc IT Student%20;%20DEVELOPER;daily_to_lern insta_id%20;EXPERIENCED%20 Forntant-end devlopent;ALWAYS learning unique%20LEARNING%20&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
